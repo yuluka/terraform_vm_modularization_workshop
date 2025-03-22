@@ -124,13 +124,13 @@ El resultado de este comando debería verse así:
 ![Apply](docs/images/apply2.png)
 
 
-## 5. Comprobación de los recursos  
+## Comprobación de los recursos  
 
 Para verificar que los recursos se han creado correctamente, se puede revisar en el panel de administración:  
 
 ![Resources](docs/images/resources.png)
 
-## 6. Conexión a la Máquina Virtual  
+## Conexión a la Máquina Virtual  
 
 Si todo está funcionando correctamente, ahora se puede hacer la conexión a la VM mediante SSH. 
 
